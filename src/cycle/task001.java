@@ -2,7 +2,7 @@ package cycle;
 
 import java.util.Scanner;
 
-public class tack001 {
+public class task001 {
     public static void main(String[] args) {
         /*Таблица умножения на консоль
 Напишите программу, которая выводит таблицу
